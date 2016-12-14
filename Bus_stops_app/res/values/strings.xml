@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bus stops app</string>
+    <string name="hello_world">Wait for the bus shedule.</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">http://astikovolou.gr/</string>
+    <string name="button_send">send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="Connect">connect</string>
+    <string name="something">Please wait...</string>
+    <string name="bus_stop">Bus stop address...</string>
+    <string name="bus_stop_name" />
+    <string name="directions">Get directions</string>
+    <string name="title_activity_the_map_act">The_map_act</string>
+    <string name="title_activity_the_map_act_v1">Directions</string>
+    <string name="name">val</string>
+
+</resources>

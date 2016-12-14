@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Splash"
+    android:background="@drawable/new_spl">
+
+</LinearLayout>
+<!-- From: file:/C:/Users/sotos/Documents/mathimata/android%20project%20bus%20stop/Bus_stops_app/res/layout/splash_screen.xml -->

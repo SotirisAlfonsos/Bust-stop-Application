@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2ce3d31605fe92c8e36bf7e10e81b7de126f80e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sotos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e513084953bf5faa4e1973f099b4ea50a5ff5cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\libs\itextpdf-5.5.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4071b08a63ef69dfb6f7e2d4ac0c9c48277e7a02">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\itextpdf-5.5.3-6e3b83386e7da2b20c4e9c166bcbe98c1c16708e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\classes-aeca98a3234f9d736fed9b83e88442d5c0fcd4b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\classes-21881630efc4a2b07ed523e2e50294c3a96ccaf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\sotos\Desktop\android project bus stop\Bus_stops_app\build\intermediates\pre-dexed\debug\classes-0d374a82eea53c9b87ed62c0ce97aa2f6e6d3634.jar" />
+    </item>
+
+</items>
